@@ -1,0 +1,2 @@
+# HappyTraveller
+go somewhere else
